@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <modification>
+  <id>FolhaContraCheque</id>
   <name>Folha Contra Cheque</name>
   <ecidade-version>2.3.50</ecidade-version>
 
